@@ -2,8 +2,7 @@
 objetivo: implementar um analizador lexico da linguagem LA(Linguagem Algoritmica), desenvolvida pelo professor jander.
 
 
-como compilar:  
-
+Como compilar:  
 passo a passo:
 - para criar o arquivo jar:   
 mvn install 
