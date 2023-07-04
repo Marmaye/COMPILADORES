@@ -1,5 +1,6 @@
 # Trabalho 1
-#La-Lexico (nome da pasta)
+-La-Lexico (nome da pasta)
+
 objetivo: implementar um analizador lexico da linguagem LA(Linguagem Algoritmica), desenvolvida pelo professor jander.
 
 
