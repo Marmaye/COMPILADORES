@@ -19,7 +19,7 @@ java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.ja
 
 La-sintatico(nome da pasta)
 
-objetivo: implementar um analizador sintatico.
+objetivo: implementar um analizador sintatico para a LA (linguagem algoritmica).
 
 Como compilar:  
 passo a passo:
