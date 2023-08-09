@@ -49,3 +49,20 @@ java -jar target/la-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar entrada.txt
 Como executar:
 - para usar o corretor:   
 java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "java -jar target/la-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar" gcc ./temp ./casos-de-teste "790139" "t3"
+
+# Trabalho 4
+
+La-semanticot4(nome da pasta)
+
+objetivo: (linguagem algoritmica).
+
+Como compilar:  
+passo a passo:
+- para criar o arquivo jar:   
+mvn install 
+- para um arquivo:  
+java -jar target/la-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar entrada.txt saida.txt
+
+Como executar:
+- para usar o corretor:   
+java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "java -jar target/la-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar" gcc ./temp ./casos-de-teste "790139" "t3"
