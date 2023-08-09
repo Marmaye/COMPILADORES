@@ -1,0 +1,15 @@
+/home/vanessa/NetBeansProjects/la-semanticot4/src/main/java/br/ufscar/dc/compiladores/la/semantico/Escopos.java
+/home/vanessa/NetBeansProjects/la-semanticot4/src/main/java/br/ufscar/dc/compiladores/la/semantico/LaSemantico.java
+/home/vanessa/NetBeansProjects/la-semanticot4/src/main/java/br/ufscar/dc/compiladores/la/semantico/TabelaSimbolos.java
+/home/vanessa/NetBeansProjects/la-semanticot4/src/main/java/br/ufscar/dc/compiladores/la/semantico/CustomErrorListener.java
+/home/vanessa/NetBeansProjects/la-semanticot4/src/main/java/br/ufscar/dc/compiladores/la/semantico/LaSemanticoUtils.java
+/home/vanessa/NetBeansProjects/la-semanticot4/src/main/java/br/ufscar/dc/compiladores/la/semantico/TiposLa.java
+/home/vanessa/NetBeansProjects/la-semanticot4/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/semantico/LaSemanticoLexer.java
+/home/vanessa/NetBeansProjects/la-semanticot4/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/semantico/LaSemanticoBaseListener.java
+/home/vanessa/NetBeansProjects/la-semanticot4/src/main/java/br/ufscar/dc/compiladores/la/semantico/Principal.java
+/home/vanessa/NetBeansProjects/la-semanticot4/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/semantico/LaSemanticoListener.java
+/home/vanessa/NetBeansProjects/la-semanticot4/src/main/java/br/ufscar/dc/compiladores/la/semantico/EntradaTabelaSimbolos.java
+/home/vanessa/NetBeansProjects/la-semanticot4/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/semantico/LaSemanticoParser.java
+/home/vanessa/NetBeansProjects/la-semanticot4/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/semantico/LaSemanticoBaseVisitor.java
+/home/vanessa/NetBeansProjects/la-semanticot4/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/semantico/LaSemanticoVisitor.java
+/home/vanessa/NetBeansProjects/la-semanticot4/src/main/java/br/ufscar/dc/compiladores/la/semantico/Mensagens.java
