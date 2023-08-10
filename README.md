@@ -37,7 +37,7 @@ java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.ja
 
 La-semanticot3(nome da pasta)
 
-objetivo: (linguagem algoritmica).
+objetivo: implementar parte de um analisador semântico para a linguagem LA (Linguagem Algorítmica) desenvolvida pelo prof. Jander, no âmbito do DC/UFSCar.
 
 Como compilar:  
 passo a passo:
@@ -54,7 +54,7 @@ java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.ja
 
 La-semanticot4(nome da pasta)
 
-objetivo: (linguagem algoritmica).
+objetivo:implementar uma segunda parte de um analisador semântico para a linguagem LA (Linguagem Algorítmica) desenvolvida pelo prof. Jander, no âmbito do DC/UFSCar.
 
 Como compilar:  
 passo a passo:
@@ -65,4 +65,4 @@ java -jar target/la-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar entrada.txt
 
 Como executar:
 - para usar o corretor:   
-java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "java -jar target/la-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar" gcc ./temp ./casos-de-teste "790139" "t3"
+java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "java -jar target/la-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar" gcc ./temp ./casos-de-teste "790139" "t4"
