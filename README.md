@@ -66,3 +66,20 @@ java -jar target/la-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar entrada.txt
 Como executar:
 - para usar o corretor:   
 java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "java -jar target/la-semantico-1.0-SNAPSHOT-jar-with-dependencies.jar" gcc ./temp ./casos-de-teste "790139" "t4"
+
+# Trabalho 5
+
+la-gerador(nome da pasta)
+
+objetivo:implementar um gerador de código para a linguagem LA.
+
+Como compilar:  
+passo a passo:
+- para limpar e resetar
+mvn clean package
+- para criar o pacote e instalar o que precisa:   
+mvn install
+
+Como executar:
+- para usar o corretor:   
+java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "java -jar target/la-gerador-1.0-SNAPSHOT-jar-with-dependencies.jar" gcc temp casos-de-teste "790139" "t5"
