@@ -76,6 +76,7 @@ objetivo:implementar um gerador de código para a linguagem LA.
 Como compilar:  
 passo a passo:
 - para limpar e resetar:
+  
 mvn clean package
 - para criar o pacote e instalar o que precisa:   
 mvn install
