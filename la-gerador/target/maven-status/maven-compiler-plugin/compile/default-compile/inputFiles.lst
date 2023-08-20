@@ -1,0 +1,16 @@
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/TiposLa.java
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/EntradaTabelaSimbolos.java
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/Escopos.java
+/home/vanessa/NetBeansProjects/la-gerador/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/gerador/LAListener.java
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/LaSemanticoUtils.java
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/Principal.java
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/TabelaSimbolos.java
+/home/vanessa/NetBeansProjects/la-gerador/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/gerador/LAVisitor.java
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/CustomErrorListener.java
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/LaSemantico.java
+/home/vanessa/NetBeansProjects/la-gerador/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/gerador/LALexer.java
+/home/vanessa/NetBeansProjects/la-gerador/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/gerador/LAParser.java
+/home/vanessa/NetBeansProjects/la-gerador/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/gerador/LABaseListener.java
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/GeradorC.java
+/home/vanessa/NetBeansProjects/la-gerador/src/main/java/br/ufscar/dc/compiladores/la/gerador/Mensagens.java
+/home/vanessa/NetBeansProjects/la-gerador/target/generated-sources/antlr4/br/ufscar/dc/compiladores/la/gerador/LABaseVisitor.java
