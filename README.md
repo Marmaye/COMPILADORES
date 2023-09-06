@@ -84,6 +84,7 @@ Como executar:
 - para usar o corretor:   
 java -jar compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "java -jar target/la-gerador-1.0-SNAPSHOT-jar-with-dependencies.jar" gcc temp casos-de-teste "790139" "t5"
 # Trabalho 6
+-gymPlanner (nome da pasta)
 
   # GymPlanner.
   Uma linguagem desenvolvida para criar planner semanal de treinamento de academia.
